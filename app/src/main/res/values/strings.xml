@@ -6,6 +6,7 @@
     <string name="instruction_4">The user must be able to search for an item of the selected client.</string>
     <string name="instruction_5">The user must be able to search an Inventories.</string>
     <string name="instruction_6">You can use settings</string>
+    <string name="title_activity_overlay">OverlayActivity</string>
 
 
 </resources>

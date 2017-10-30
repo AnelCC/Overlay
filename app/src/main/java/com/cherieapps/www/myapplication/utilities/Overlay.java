@@ -1,4 +1,4 @@
-package com.cherieapps.www.myapplication;
+package com.cherieapps.www.myapplication.utilities;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;

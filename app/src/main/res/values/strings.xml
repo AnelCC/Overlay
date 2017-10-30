@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="instruction_1">The user should be able to search for an Layaway.</string>
+    <string name="instruction_2">The user must be able to register a new Layaway</string>
+    <string name="instruction_3">The user must be able to add a new client to the Layaway </string>
+    <string name="instruction_4">The user must be able to search for an item of the selected client.</string>
+    <string name="instruction_5">The user must be able to search an Inventories.</string>
+    <string name="instruction_6">You can use settings</string>
+
+
+</resources>
